@@ -12,3 +12,7 @@ BuildingEscape/Content/StarterContent/
 # Visual Studio Generated Files#
 #########################
 *.VC.db
+BuildingEscape/Content/InfinityBladeEffects/
+BuildingEscape/Content/GTFreeMaterials/
+BuildingEscape/Content/Freebie_01/
+BuildingEscape/Content/KiteDemo/
